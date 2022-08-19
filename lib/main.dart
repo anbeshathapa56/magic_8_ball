@@ -13,7 +13,7 @@ class Magic8BallApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'The MAGIC 8-Ball',
+        title: 'THE MAGIC 8-Ball',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
